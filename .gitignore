@@ -1,7 +1,0 @@
-node_modules/
-dist/
-.env
-!.env.example
-kafka-data/
-mysql-data/
-*.log
